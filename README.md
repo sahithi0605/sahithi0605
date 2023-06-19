@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahithi0605
-- 👀 I’m interested in web development and machine learning
+- I’m interested in Web Development and Machine Learning
 
 
 <!---
